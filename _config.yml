@@ -16,5 +16,20 @@ github:
   repository_url: https://github.com/maomlab/maomlab.github.io
   is_project_page: false
 
+include:
+  - _pages
+
+
+sass:
+  sass_dir: _sass
+
 plugins:
   - "jekyll-github-metadata"
+
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock

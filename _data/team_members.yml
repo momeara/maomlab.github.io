@@ -1,0 +1,45 @@
+- name: Matthew J. O'Meara Ph.D.
+  photo: momeara_headshot.jpg
+  info: Assitant Professor
+  email: maom@umich.edu
+  number_educ: 4
+  education1: BA Mathematics<br/>University of Chicago
+  education2: PhD Computer Science<br/>UNC-Chapel Hill (<a href="https://www.cs.unc.edu/~snoeyink/">Snoeyink</a>/<a href="https://klab.web.unc.edu/">Kuhlman</a> Labs)
+  education3: Postdoc Pharmaceutical Chemistry<br/>UC San Fancisco (<a href="https://bkslab.org/">Shoichet</a> Lab)
+  education4: <a href="https://scholar.google.com/citations?user=AhiiuoIAAAAJ&hl=en">Google Scholar</a>
+
+- name: Alex Kalinin Ph.D.
+  photo: akalinin_headshot.jpg
+  info: International Postdoctoral Fellow
+  email: akalinin@umich.edu
+  number_educ: 4
+  education1: BSc Applied Math and CS<br/>Novosibirsk State Technical University
+  education2: MSc Applied Math and CS<br/>Novosibirsk State Technical University
+  education3: PhD Bioinformatics<br/>UMich (<a href="https://athey.lab.medicine.umich.edu/">Athey</a>/<a href="https://www.socr.umich.edu/people/dinov/">Dinov</a> Labs)
+  education4: <a href="https://scholar.google.ca/citations?user=oEHDAgMAAAAJ">Google Scholar</a>
+
+- name: Renly HOU
+  photo: xinhaih_headshot.jpg
+  info: PhD Graduate Student (Bioinformatics)
+  email: xinhaih@umich.edu
+  number_educ: 2
+  education1: BS Statistics<br/>The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
+  education2: MPhil Computer and Information Engineering<br/>Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
+
+- name: Jose Miguel I Limcaoco
+  photo: limcaoco_headshot.jpg
+  info: PhD Graduate Student (Bioinformatics)
+  email: limcaoco@umich.edu
+  number_educ: 2
+  education1: BS Pharmaceutical Chemistry<br />UC Davis (<a href="https://siegel.ucdavis.edu/">Siegel</a> Lab)
+  education2: Rosetta Postbac Fellow<br />UMich (Maom Lab)
+
+- name: Madeline J Martin
+  photo: mamadeli_headshot.png
+  info: Rosetta Postbac Fellow
+  email: mamadeli@umich.edu
+  number_educ: 2
+  education1: BS Biochemistry and Molecular Biology<br />Michigan State University
+
+
+
