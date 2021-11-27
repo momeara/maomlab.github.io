@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Maom Lab: Computational Pharmacology
+We use computational simulations to develop chemical probes
 
-You can use the [editor on GitHub](https://github.com/maomlab/maomlab.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Computational Methods
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Virtual screening
+Recent advances in synthetic chemistry have opened a universe of possible chemical probes. We can computationally simulate how these might fit into a protein binding site to modulate its function. A critical challenge is to integrate heterogeneous structural and functional observations with simulations to prioritize compounds with useful activity profiles.
 
-### Markdown
+#### Analysis of high content screens
+Genetic and chemical perturbations can have complex effects on cells. Recent advances in high-throughput screening means thousands of sub-cellular features can be recorded for hundreds of thousands of individual cell per experiment.  A critical challenge is how to isolate the response to the treatment from the intrinsic cellular heterogeneity and experimental batch effects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Bayesian statistical modeling
+A key challenge in scaling complex experiments is making use of domain expertise to design informative perturbations and analyze the data. A principled approach is to develop simulations that model all the decisions, mechanisms, and outcomes.  To fit these models are building on recent work in Bayesian Statistics and Deep Learning to explicitly and implicitly differentiate the discrepancy with the observed outcomes back through the simulation to adjust the perturbations and latent parameters.    
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Protein engineering
+Native proteins beautifully sense and transmit signals in their environment, catalyze reactions, and form structural scaffolds. To dissect or engineer these functional roles, the amino acid sequences can be mutated to stabilize specific conformational states. A critical challenge is to integrate functional constraints encoded in natural sequence diversity with structure guided design. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maomlab/maomlab.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
