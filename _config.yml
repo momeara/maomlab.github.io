@@ -1,4 +1,11 @@
+
+# basic information
 title: Maom Lab
-description: Computational Pharmacology (UMich)
+email: your-email@domain.com
+description: Computational pharmacology lab of Matthew O'Meara at the Univerity of Michigan
+twitter_username: momeara
+github_username:  momeara
+
+# site configuration
 theme: jekyll-theme-minimal
 
