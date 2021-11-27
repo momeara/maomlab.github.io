@@ -2,13 +2,17 @@
 # basic information
 title: Maom Lab
 email: your-email@domain.com
-description: Computational pharmacology lab of Matthew O'Meara<br>Univerity of Michigan
+description: >- # ignore newlines until next tag
+  Computational pharmacology lab of Matthew O'Meara<br>Univerity of Michigan
 twitter_username: momeara
 github_username:  momeara
+baseurl: ""
+url: "https://maomlab.github.io/" 
 
 # site configuration
 theme: jekyll-theme-minimal
 
 github:
-  is\_project\_page: false
+  repository_url: https://github.com/maomlab/maomlab.github.io
+  is_project_page: false
 
