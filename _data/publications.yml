@@ -1,0 +1,290 @@
+- title: "Colour Patterns for Polychromatic Four-colourings of Rectangular Subdivisions"
+  image:
+  description:
+  authors: Haverkort HJ, Löffler M, Mumford E, O'Meara MJ, Snoeyink J, Speckmann B
+  link:
+    url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.5500&rep=rep1&type=pdf#page=85
+    display: 24th European Workshop on Computational Geometry (2008)
+  highlight: 0
+  news2:
+
+- title: "Maximum Geodesic Routing in the Plane with Obstacles"
+  image:
+  description:
+  authors: O’Meara MJ, Millman DL, Snoeyink J, Verma V
+  link:
+    url: http://cccg.ca/proceedings/2010/paper30.pdf
+    display: The Canadian Conference on Computational Geometry (2010)
+  highlight: 0
+  news2:
+
+- title: "Scientific Benchmarks for Guiding Macromolecular Force Field Improvement"
+  image:
+  description:
+  authors: Leaver-Fay A*, O’Meara MJ*, Tyka M, Jacak R, Song Y, Kellogg EH, Thompson J, Davis IW, Pache, RA, Lyskov S, Gray JJ, Kortemme T, Richardson JS, Havranek JJ, Snoeyink J, Baker D, Kuhlman B [*contributed equally]
+  link:
+    url: http://doi.org/10.1016/B978-0-12-394292-0.00006-0
+    display: Meth. Enzymol. (2013)
+  highlight: 0
+  news2:
+
+- title: "Role of Electrostatic Repulsion in Controlling pH-dependent Conformational Changes of Viral Fusion Proteins"
+  image:
+  description:
+  authors: Harrison JS, Higgins CD, O’Meara MJ, Koellhoffer JF, Kuhlman BA, & Lai JR
+  link:
+    url: http://doi.org/10.1016/j.str.2013.05.009
+    display: Structure (2013)
+  highlight: 0
+  news2:
+
+- title: "The Cryptococcus neoformans Rim101 Transcription Factor Directly Regulates Genes Required for Adaptation to the Host"
+  image:
+  description:
+  authors: O’Meara TR, Xu W, Selvig KM, O’Meara MJ, Mitchell AP, Alspaugh JA
+  link:
+    url: http://doi.org/10.1128/MCB.01359-13
+    display: Mol. Cell. Biol. (2014)
+  highlight: 0
+  news2:
+
+- title: "Combined Covalent-Electrostatic Model of Hydrogen Bonding Improves Structure Prediction with Rosetta"
+  image:
+  description:
+  authors: O’Meara MJ, Leaver-Fay A, Tyka M, Stein A, Houlihan K, DiMaio F, Bradley P, Kortemme T, Baker D, Snoeyink J, Kuhlman B
+  link:
+    url: http://doi.org/10.1021/ct500864r
+    display: J. Chem. Theory Comput. (2015)
+  highlight: 1
+  news2:
+
+- title: "A Web Resource for Standardized Benchmark Datasets, Metrics, and Rosetta Protocols for Macromolecular Modeling and Design"
+  image:
+  description:
+  authors: Ó Conchúir S, Barlow KA, Pache RA, Ollikainen N, Kundert K, O'Meara MJ, Smith CA, Kortemme T
+  link:
+    url: http://doi.org/10.1371/journal.pone.0130433
+    display: PLoS ONE (2015)
+  highlight: 0
+  news2:
+
+- title: "The recognition of identical ligands by unrelated proteins"
+  image:
+  description:
+  authors: Barelier S, Sterling T, O’Meara MJ, Shoichet BK
+  link:
+    url: http://doi.org/10.1021/acschembio.5b00683
+    display: ACS Chem. Biol. (2015)
+  highlight: 0
+  news2:
+
+- title: "Ligand Similarity Complements Sequence, Physical Interaction, and Co-Expression for Gene Function Prediction"
+  image:
+  description:
+  authors: O’Meara MJ, Ballouz S, Shoichet BK, Gillis J
+  link:
+    url: http://doi.org/10.1371/journal.pone.0160098
+    display: PLoS ONE (2016)
+  highlight: 0
+  news2:
+
+- title: "The Rosetta all-atom energy function for macromolecular modeling and design"
+  image:
+  description:
+  authors: Alford RF, Leaver-Fay A, Jeliazkov JR, O'Meara MJ, DiMaio FP, Park H, Shapovalov MV, Renfrew PD, Mulligan VK, Kappel K, Labonte JW, Pacella MS, Bonneau R, Bradley P, Dunbrack RL, Das R, Baker D, Kuhlman B, Kortemme T, Gray JJ
+  link:
+    url: http://doi.org/10.1021/acs.jctc.7b00125
+    display: J. Chem. Theory Comput. (2017)
+  highlight: 0
+  news2:
+
+- title: "Integrative mapping of enzymatic pathways"
+  image:
+  description:
+  authors: Calhoun S, Korczynska M, Wichelecki DJ, San Francisco B, Zhao S, Rodionov DA, Vetting MW, Al-Obaidi NF, Lin H, O’Meara MJ, Scott DA, Morris JH, Russel D, Ferrin TE, Almo SC, Osterman AL, Jacobson MP, Gerlt JA, Shoichet BK, Sali A
+  link:
+    url: http://doi.org/10.7554/eLife.31097
+    display: eLife (2018)
+  highlight: 0
+  news2:
+
+- title: "High-throughput screening identifies genes required for fungal induction of macrophage pyroptosis"
+  image:
+  description:
+  authors: O’Meara TR, Duah K, Guo CX, Maxson ME, Gaudet R, Koselny K, Wellington M, Powers ME, MacAlpine J, O’Meara MJ, Veri AO, Grinstein S, Noble SM, Krysan D, Gray-Owen S, Cowen LE
+  link:
+    url: http://doi.org/10.1128/mBio.01581-18
+    display: mBio (2018)
+  highlight: 0
+  news2:
+
+- title: "Local Delivery of Stabilized Chondroitinase ABC Degrades Chondroitin Sulfate Proteoglycans in Stroke-Injured Rat Brains"
+  image:
+  description:
+  authors: Hettiaratchi MH, O'Meara MJ, Teal CJ, Payne SL, Pickering AJ, Shoichet M
+  link:
+    url: http://doi.org/10.1016/j.jconrel.2019.01.033
+    display: J. Control Release (2018)
+  highlight: 0
+  news2:
+
+- title: "Ultra-large library docking for new chemotypes"
+  image:
+  description:
+  authors: Lyu J, Wang S, Balius TE, Singh I, Levit A, Moroz YS, O’Meara MJ, Che T, Algaa E, Tolmachev AA, Shoichet BK, Roth BL, Irwin JJ
+  link:
+    url: http://doi.org/10.1038/s41586-019-0917-9
+    display: Nature (2019)
+  highlight: 1
+  news2:
+
+- title: "Global Proteomic Analyses Define an Environmentally Contingent Hsp90 Interactome and Reveal Chaperone-Dependent Regulation of Stress Granule Proteins and the R2TP Complex in a Fungal Pathogen"
+  image:
+  description:
+  authors: O’Meara TR, O’Meara MJ, Polvi EJ, Pourhaghighi MR, Liston SD, Lin Z-Y, Veri AO, Emili A, Gingras A-C, Cowen LE
+  link:
+    url: http://doi.org/10.1371/journal.pbio.3000358
+    display: PLOS Biol. (2019)
+  highlight: 0
+  news2:
+
+
+- title: "A Unified Stochastic Gradient Approach to Designing Bayesian-Optimal Experiments"
+  image:
+  description:
+  authors: Foster A, Jankowiak M, O’Meara MJ,  Teh YW, Rainforth T
+  link:
+    url: http://proceedings.mlr.press/v108/foster20a.html
+    display: AISTATS (2020)
+  highlight: 0
+  news2:
+
+- title: "A SARS-CoV-2 protein interaction map reveals targets for drug repurposing"
+  image:
+  description:
+  authors: Gordon DE*, Jang GM*, Bouhaddou M*, Xu J, Obernier K*, White K*, O’Meara MJ*, et al.
+  link:
+    url: http://doi.org/10.1038/s41586-020-2286-9
+    display: Nature (2020)
+  highlight: 1
+  news2:
+
+- title: "Reengineering biocatalysts: Computational redesign of chondroitinase ABC improves efficacy and stability"
+  image:
+  description:
+  authors: Hettiaratchi MH*, O’Meara MJ*, O’Meara TR, Pickering AJ, Letko-Khait N, Shoichet MS [* Contributed Equally]
+  link:
+    url: http://doi.org/10.1126/sciadv.abc6378
+    display: Sci. Adv. (2020)
+  highlight: 1
+  news2:
+
+- title: "Machine Learning and Assay Development for Image-based Phenotypic Profiling of Drug Treatments"
+  image:
+  description:
+  authors: Sexton JZ, Fursmidt R, O’Meara MJ, Rao A, Egan D, Haney SA
+  link:
+    url:
+    display: NCATS Assay Guidance Manual [Accepted] (2021)
+  highlight: 0
+  news2:
+
+- title: "Comparative Host-Coronavirus Protein Interaction Networks Reveal Pan-Viral Disease Mechanisms"
+  image:
+  description:
+  authors: Gordon DE, et al., O'Meara MJ, et al.,
+  link:
+    url: http://doi.org/10.1126/science.abe9403
+    display: Science (2020)
+  highlight: 1
+  news2:
+
+- title: "DeORFanizing Candida albicans Genes using Coexpression"
+  image: OMeara2020.png
+  description:
+  authors: O'Meara TR, O'Meara MJ
+  link:
+    url: http://doi.org/10.1128/mSphere.01245-2
+    display: mSphere (2020)
+  highlight: 0
+  news2:
+
+- title: "Property-Unmatched Decoys in Docking Benchmarks"
+  image: Stein2021.png
+  description:
+  authors: Stein RM, Yang Y, Balius ME, O’Meara MJ, Lyu J, Young J, Tang K, Shoichet BK, Irwin JJ
+  link:
+    url: http://doi.org/10.1021/acs.jcim.0c00598
+    display: J. Chem. Inf. Model (2021)
+  higlight: 1
+  news2:
+
+- title: "Phospholipidosis is a shared mechanism underlying the in vitro antiviral activity of many repurposed drugs against SARS-CoV-2"
+  image: Tummino2021.png
+  description:
+  authors: Tummino TA, Rezelj VV, Fischer B, Fischer A, O’Meara MJ, Monel B, Vallet T, Zhang Z, Alon A, O’Donnell HR, Lyu J, Schadt H, White KM, Krogan NJ, Urban L, Shokat KM, Kruse AC, García-Sastre A, Schwartz O, Moretti F, Vignuzzi M, Pognan F, Shoichet BK
+  link:
+    url: http://doi.org/10.1126/science.abi4708
+    display: Science (2021)
+  highlight: 1
+  news2: Recommended in Faculty Opinions
+
+- title: "Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells"
+  image:
+  description:
+  authors: Kalinin AA, Hou X, Ade AS, Fon GV, Meixner W, Higgins GA, Sexton JZ, Xiang Wan, Dinov ID, O'Meara MJ, Athey BD
+  link:
+    url: http://doi.org/10.1091/mbc.E20-08-0502
+    display: Mol. Biol. Cell (2021)
+  highlight: 1
+  news2:
+
+- title: "Crystal structures of the σ2 receptor template large-library docking for selective chemotypes active in vivo"
+  image:
+  description:
+  authors: Alon A, Lyu J, Braz JM, Tummino TA, Craik V, O'Meara MJ, Webb CM, Radchenko DS, Moroz YS, Huang XP, Liu Y, Roth BL, Irwin JJ, Basbaum AI, Shoichet BK, Kruse AC
+  link:
+    url: http://doi.org/10.1101/2021.04.29.441652
+    display: BioRxiv (2021)
+  highlight: 1
+  news2:
+
+- title: "Morphological cell profiling of SARS-CoV-2 infection identifies drug repurposing candidates for COVID-19"
+  image:
+  description:
+  authors: Mirabelli C, Wotring JW, Zhang CJ, McCarty SM, Fursmidt R, Pretto CD, Qiao Y, Zhang Y, Frum T, Kadambi NS, Amin AT, O’Meara TR, Spence JR, Huang J, Alysandratos KD, Kotton DN, Handelman SK,  Wobus CE, Weatherwax KJ, Mashour GA, O’Meara MJ*, Chinnaiyan AM*, Sexton JZ* [*contributed equally]
+  link:
+    url: http://doi.org/10.1073/pnas.2105815118
+    display: PNAS (2021)
+  highlight: 1
+  news2:
+
+- title: "A Multi-Omics Human Liver Organoid Screening Platform for DILI Risk Prediction."
+  image: Zhang2021.png
+  description:
+  authors: Zhang CJ, O’Meara MJ, Meyer SR, Huang S, Capeling MM, Ferrer-Torres D, Childs CJ, Spence JR, Fontana RJ, Sexton JZ.
+  link:
+    url: http://doi.org/10.1101/2021.08.26.457824
+    display: BioRxiv (2021)
+  highlight: 1
+  news2:
+
+- title: "Chondroitinase ABC Mutants and Methods of Manufacture and use Thereof"
+  image:
+  description:
+  authors: Shoichet MS, Hettiaratchi MH, O'Meara TR, O'Meara MJ
+  link:
+    url: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021159205
+    display: WO/2021/159205
+  highlight: 1
+  news2:
+
+- title: "Leveraging machine learning essentiality predictions and chemogenomic interactions to identify antifungal targets"
+  image: fu2021.png
+  description:
+  authors: Fu C, Zhang X, Veri AO, Lyer KR, Lash E, Xue A, Yan H, Revie NM, Wong C, Lin ZY, Polvi EJ, Liston SD, VanderSluis B, Hou J, Yashiroda Y, Gingras AC, Boone C, O'Meara TR, O'Meara MJ, Noble S, Robbins N, Myers CL, Cowen LE
+  link:
+    url: http://doi.org/10.1038/s41467-021-26850-3
+    display: Nat. Comm (2021)
+  highlight: 1
+  news2:
