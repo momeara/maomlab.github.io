@@ -10,7 +10,7 @@
 
 - name: Alex Kalinin Ph.D.
   photo: akalinin_headshot.jpg
-  info: International Postdoctoral Fellow
+  info: International Postdoctoral Fellow (CUHK-CZ)
   email: akalinin@umich.edu
   number_educ: 4
   education1: BSc Applied Math and CS<br/>Novosibirsk State Technical University
@@ -26,19 +26,19 @@
   education1: BS Statistics<br/>The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
   education2: MPhil Computer and Information Engineering<br/>Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
 
-- name: Jose Miguel I Limcaoco
-  photo: limcaoco_headshot.jpg
+- name: Jose Miguel I. Limcaoco
+  photo: limcaoco_headshot.png
   info: PhD Graduate Student (Bioinformatics)
   email: limcaoco@umich.edu
   number_educ: 2
   education1: BS Pharmaceutical Chemistry<br />UC Davis (<a href="https://siegel.ucdavis.edu/">Siegel</a> Lab)
   education2: Rosetta Postbac Fellow<br />UMich (Maom Lab)
 
-- name: Madeline J Martin
+- name: Madeline J. Martin
   photo: mamadeli_headshot.png
   info: Rosetta Postbac Fellow
   email: mamadeli@umich.edu
-  number_educ: 2
+  number_educ: 1
   education1: BS Biochemistry and Molecular Biology<br />Michigan State University
 
 
