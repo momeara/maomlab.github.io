@@ -332,6 +332,8 @@ DEPENDENCIES
   github-pages
   jekyll (= 3.9.0)
   jekyll-github-metadata
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-minimal
   sassc-rails (>= 2.1.0)
 

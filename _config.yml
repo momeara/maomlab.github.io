@@ -1,16 +1,23 @@
 
 # basic information
 title: Maom Lab
-email: your-email@domain.com
+tagline: Website for the Matthew O'Meara Lab at UMich
 description: >- # ignore newlines until next tag
   Computational pharmacology lab of Matthew O'Meara<br>Univerity of Michigan
+email: maom@umich.edu
+author: Matthew O'Meara
 twitter_username: momeara
 github_username:  momeara
 baseurl: ""
 url: "https://maomlab.github.io/" 
 
 # site configuration
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+
+# for jekyll-seo-tag
+twitter:
+  username: momeara
+  card: summary
 
 github:
   repository_url: https://github.com/maomlab/maomlab.github.io
@@ -19,13 +26,13 @@ github:
 include:
   - _pages
 
-
 sass:
   sass_dir: _sass
 
 plugins:
-  - "jekyll-github-metadata"
-
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - .sass-cache/
