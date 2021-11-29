@@ -9,10 +9,10 @@ author: Matthew O'Meara
 twitter_username: momeara
 github_username:  momeara
 baseurl: ""
-url: "https://maomlab.github.io/" 
+url: "https://maomlab.github.io" 
 
 # site configuration
-theme: yeti
+# theme: yeti
 
 # for jekyll-seo-tag
 twitter:
