@@ -12,7 +12,7 @@ baseurl: ""
 url: "https://maomlab.github.io/" 
 
 # site configuration
-#theme: jekyll-theme-minimal
+theme: yeti
 
 # for jekyll-seo-tag
 twitter:
