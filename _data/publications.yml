@@ -49,7 +49,7 @@
   news2:
 
 - title: "Combined Covalent-Electrostatic Model of Hydrogen Bonding Improves Structure Prediction with Rosetta"
-  image:
+  image: OMeara2015.gif
   description:
   authors: O’Meara MJ, Leaver-Fay A, Tyka M, Stein A, Houlihan K, DiMaio F, Bradley P, Kortemme T, Baker D, Snoeyink J, Kuhlman B
   link:
@@ -129,7 +129,7 @@
   news2:
 
 - title: "Ultra-large library docking for new chemotypes"
-  image:
+  image: Lyu2019.webp
   description:
   authors: Lyu J, Wang S, Balius TE, Singh I, Levit A, Moroz YS, O’Meara MJ, Che T, Algaa E, Tolmachev AA, Shoichet BK, Roth BL, Irwin JJ
   link:
@@ -160,9 +160,9 @@
   news2:
 
 - title: "A SARS-CoV-2 protein interaction map reveals targets for drug repurposing"
-  image:
+  image: Gordon2020a.webp
   description:
-  authors: Gordon DE*, Jang GM*, Bouhaddou M*, Xu J, Obernier K*, White K*, O’Meara MJ*, et al.
+  authors: Gordon DE*, Jang GM*, Bouhaddou M*, Xu J, Obernier K*, White K*, O’Meara MJ*, et al. UCSF QBI Coronavirus Research Group
   link:
     url: http://doi.org/10.1038/s41586-020-2286-9
     display: Nature (2020)
@@ -170,7 +170,7 @@
   news2:
 
 - title: "Reengineering biocatalysts: Computational redesign of chondroitinase ABC improves efficacy and stability"
-  image:
+  image: Hettiaratchi2020.jpeg
   description:
   authors: Hettiaratchi MH*, O’Meara MJ*, O’Meara TR, Pickering AJ, Letko-Khait N, Shoichet MS [* Contributed Equally]
   link:
@@ -190,9 +190,9 @@
   news2:
 
 - title: "Comparative Host-Coronavirus Protein Interaction Networks Reveal Pan-Viral Disease Mechanisms"
-  image:
+  image: Gordon2020b.jpeg
   description:
-  authors: Gordon DE, et al., O'Meara MJ, et al.,
+  authors: Gordon DE, et al., O'Meara MJ, et al., UCSF QBI Coronavirus Research Group
   link:
     url: http://doi.org/10.1126/science.abe9403
     display: Science (2020)
@@ -200,13 +200,13 @@
   news2:
 
 - title: "DeORFanizing Candida albicans Genes using Coexpression"
-  image: OMeara2020.png
+  image: OMeara2021.jpeg
   description:
   authors: O'Meara TR, O'Meara MJ
   link:
-    url: http://doi.org/10.1128/mSphere.01245-2
+    url: https://doi.org/10.1128%2FmSphere.01245-20
     display: mSphere (2020)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Property-Unmatched Decoys in Docking Benchmarks"
@@ -220,7 +220,7 @@
   news2:
 
 - title: "Phospholipidosis is a shared mechanism underlying the in vitro antiviral activity of many repurposed drugs against SARS-CoV-2"
-  image: Tummino2021.png
+  image: Tummino2021.jpg
   description:
   authors: Tummino TA, Rezelj VV, Fischer B, Fischer A, O’Meara MJ, Monel B, Vallet T, Zhang Z, Alon A, O’Donnell HR, Lyu J, Schadt H, White KM, Krogan NJ, Urban L, Shokat KM, Kruse AC, García-Sastre A, Schwartz O, Moretti F, Vignuzzi M, Pognan F, Shoichet BK
   link:
@@ -230,7 +230,7 @@
   news2: Recommended in Faculty Opinions
 
 - title: "Valproic Acid-Induced Changes of 4D Nuclear Morphology in Astrocyte Cells"
-  image:
+  image: Kalinin2021.gif
   description:
   authors: Kalinin AA, Hou X, Ade AS, Fon GV, Meixner W, Higgins GA, Sexton JZ, Xiang Wan, Dinov ID, O'Meara MJ, Athey BD
   link:
@@ -240,7 +240,7 @@
   news2:
 
 - title: "Crystal structures of the σ2 receptor template large-library docking for selective chemotypes active in vivo"
-  image:
+  image: Alon2021.gif
   description:
   authors: Alon A, Lyu J, Braz JM, Tummino TA, Craik V, O'Meara MJ, Webb CM, Radchenko DS, Moroz YS, Huang XP, Liu Y, Roth BL, Irwin JJ, Basbaum AI, Shoichet BK, Kruse AC
   link:
@@ -250,7 +250,7 @@
   news2:
 
 - title: "Morphological cell profiling of SARS-CoV-2 infection identifies drug repurposing candidates for COVID-19"
-  image:
+  image: Mirabelli2021.gif
   description:
   authors: Mirabelli C, Wotring JW, Zhang CJ, McCarty SM, Fursmidt R, Pretto CD, Qiao Y, Zhang Y, Frum T, Kadambi NS, Amin AT, O’Meara TR, Spence JR, Huang J, Alysandratos KD, Kotton DN, Handelman SK,  Wobus CE, Weatherwax KJ, Mashour GA, O’Meara MJ*, Chinnaiyan AM*, Sexton JZ* [*contributed equally]
   link:
@@ -260,7 +260,7 @@
   news2:
 
 - title: "A Multi-Omics Human Liver Organoid Screening Platform for DILI Risk Prediction."
-  image: Zhang2021.png
+  image: Zhang2021.gif
   description:
   authors: Zhang CJ, O’Meara MJ, Meyer SR, Huang S, Capeling MM, Ferrer-Torres D, Childs CJ, Spence JR, Fontana RJ, Sexton JZ.
   link:
@@ -276,11 +276,11 @@
   link:
     url: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2021159205
     display: WO/2021/159205
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Leveraging machine learning essentiality predictions and chemogenomic interactions to identify antifungal targets"
-  image: fu2021.png
+  image: fu2021.webp
   description:
   authors: Fu C, Zhang X, Veri AO, Lyer KR, Lash E, Xue A, Yan H, Revie NM, Wong C, Lin ZY, Polvi EJ, Liston SD, VanderSluis B, Hou J, Yashiroda Y, Gingras AC, Boone C, O'Meara TR, O'Meara MJ, Noble S, Robbins N, Myers CL, Cowen LE
   link:
