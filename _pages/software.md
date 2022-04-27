@@ -54,6 +54,9 @@ Curate chemical and biological annotation datasets
 #### [Zr]({{ site.url }}{{ site.baseurl }}/Zr)
 Interact with the [https://zinc15.docking.org](https://zinc15.docking.org/), a webserver for commercially available compounds developed by the Irwin lab at UCSF.
 
+### [dock_campaign_template]({{ site.url }}{{ site.baseurl }}/dock_campaign_template)
+Prepare and manage a UCSF Dock campaign using an opinionated organization
+
 #### [posteRa]({{ site.url }}{{ site.baseurl }}/posteRa)
 Interact with [Manifold](https://postera.ai/manifold), a webserver developed for retrosynthesis prediction developed by PostERA.
 

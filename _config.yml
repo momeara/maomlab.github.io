@@ -7,9 +7,10 @@ description: >- # ignore newlines until next tag
 email: maom@umich.edu
 author: Matthew O'Meara
 twitter_username: momeara
-github_username:  momeara
+github_username:  maomlab
 baseurl: ""
-url: "https://maomlab.github.io" 
+url: "https://maomlab.github.io"
+repository: "maomlab/maomlab.github.io"
 
 # site configuration
 # theme: yeti
