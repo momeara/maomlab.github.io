@@ -5,16 +5,18 @@ excerpt: "Maom Lab -- Bayesetta"
 sitemap: false
 permalink: /bayesetta/
 ---
-# Bayesetta Workshop
+# Bayesetta Workshop June 27-28th 2022
 
 ## Bayesian Statistical Modeling Workshop for Rosetta-based Modeling
+
+#### *[Registration open through May 20th](https://forms.gle/9uAMyUvRubv9sUDg8)*
 
 ### Workshop Goals
 An integral part of protein structural modeling with Rosetta is evaluating the quality of predictions against experimental observations. The community effort to develop Scientific Benchmarks has been instrumental in tracking and measuring modeling progress. However, due to the complexity and uncertainty in both the model predictions and the biochemical data, it can be challenging for researchers from both biochemical and computational researchers without a strong statistical background to rigorously test prediction accuracy for their specific modeling tasks.
 To improve the scientific quality for Rosetta-based modeling we would like to hold a hands-on 2-day workshop aimed at teaching researchers in the Rosetta community practical best-practices for how to analyze their data using rigorous Bayesian statistical modeling.
 
 ### Workshop Schedule Outline
-The first day we will teach the basics of "tidy data" analysis in R and a principled Bayesian modeling workflow using [Stan](https://mc-stan.org/) and [brms](https://paul-buerkner.github.io/brms/). On the second day we will guide participants to work together to apply the statistical modeling methods to their own data analysis problems.
+The first day we will teach the basics of "tidy data" analysis in R and the [BayesPharma](https://maomlab.github.io/BayesPharma/) analysis workflow built on [Stan](https://mc-stan.org/) and [brms](https://paul-buerkner.github.io/brms/). On the second day we will guide participants to work together to apply the statistical modeling methods to their own data analysis problems.
 
 Day 1 Morning: tidy data analysis in R
 * Preparing RStudio environment, and loading and installing packages, RMarkdown
@@ -33,7 +35,7 @@ Day 2:  Bring Your Own Data for hands-on analysis
 
 ### Prerequisites
 * Basic familiarity with R packages, functions, and data structures
-* Concrete regression data analysis task. Attendee must submit data and a modeling question
+* Bring-Your-Own-Data regression task. Experimental or modeling data set from own research to work on
 
 ### Software
 * [RStudio](https://www.rstudio.com/products/rstudio/)
