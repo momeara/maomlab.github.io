@@ -19,8 +19,9 @@ MMM is a research-oriented interest group at the University of Michigan for stru
 
 <BR><BR>
 ## Up-coming Seminar Series
+
 |Date      |Topic                                      |
-|:---------|:------------------------------------------|
+|----------|-------------------------------------------|
 |12/2/2022 |Physics Simulations <=> Molecular Modeling |
 |1/6/2023  |Machine Learning <=> Molecular Modeling    |
 |2/3/2023  |Experimental Data <=> Molecular Modeling   |
