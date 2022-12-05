@@ -20,13 +20,18 @@ MMM is a research-oriented interest group at the University of Michigan for stru
 <BR><BR>
 ## Up-coming Seminar Series
 
-|Date      |Room     |Topic                                      |
-|----------|---------|-------------------------------------------|
-|1/6/2023  |6215 THSL|CASP15 Recap                               |
-|2/3/2023  |6000 THSL|Physics Simulations <=> Molecular Modeling |
-|3/3/2023  |6000 THSL|Machine Learning <=> Molecular Modeling    |
-|4/7/2023  |6000 THSL|Experimental Data <=> Molecular Modeling   |
-|5/5/2023  |6000 THSL|Molecular Design and Virtual Screening     |
+<table>
+  <thead>
+    <tr> <th>Date</th> <th>Room</th> <th>Topic</th> </tr>
+  </thead>
+  <tbody>
+    <tr> <td>1/6/2023</td> <td>6215 THSL</td> <td>CASP15 Recap</td> </tr>
+    <tr> <td>2/3/2023</td> <td>6000 THSL</td> <td>Physics Simulations &lt;=&gt; Molecular Modeling</td> </tr>
+    <tr> <td>3/3/2023</td> <td>6000 THSL</td> <td>Machine Learning &lt;=&gt; Molecular Modeling</td> </tr>
+    <tr> <td>4/7/2023</td> <td>6000 THSL</td> <td>Experimental Data &lt;=&gt; Molecular Modeling</td> </tr>
+    <tr> <td>5/5/2023</td> <td>TBD</td>       <td>Molecular Design and Virtual Screening</td> </tr>
+  </tbody>
+</table>  
   
 Meetings will be in the [Taubman Health Sciences Library](https://www.lib.umich.edu/locations-and-hours/taubman-health-sciences-library/) 1135 Catherine St Ann Arbor, MI 48109, and accessible via [Zoom](https://umich.zoom.us/j/98700994004)
   
