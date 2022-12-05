@@ -22,14 +22,14 @@ MMM is a research-oriented interest group at the University of Michigan for stru
 
 <table>
   <thead>
-    <tr> <th>Date</th> <th>Room</th> <th>Topic</th> </tr>
+    <b><tr> <th>Date</th> <th>Room</th> <th>Topic</th> </tr></b>
   </thead>
   <tbody>
-    <tr> <td>1/6/2023</td> <td>6215 THSL</td> <td>CASP15 Recap</td> </tr>
-    <tr> <td>2/3/2023</td> <td>6000 THSL</td> <td>Physics Simulations &lt;=&gt; Molecular Modeling</td> </tr>
-    <tr> <td>3/3/2023</td> <td>6000 THSL</td> <td>Machine Learning &lt;=&gt; Molecular Modeling</td> </tr>
-    <tr> <td>4/7/2023</td> <td>6000 THSL</td> <td>Experimental Data &lt;=&gt; Molecular Modeling</td> </tr>
-    <tr> <td>5/5/2023</td> <td>TBD</td>       <td>Molecular Design and Virtual Screening</td> </tr>
+    <tr> <td>1/6/2023 </td> <td>6215 THSL </td> <td>CASP15 Recap</td> </tr>
+    <tr> <td>2/3/2023 </td> <td>6000 THSL </td> <td>Physics Simulations &lt;=&gt; Molecular Modeling</td> </tr>
+    <tr> <td>3/3/2023 </td> <td>6000 THSL </td> <td>Machine Learning &lt;=&gt; Molecular Modeling</td> </tr>
+    <tr> <td>4/7/2023 </td> <td>6000 THSL </td> <td>Experimental Data &lt;=&gt; Molecular Modeling</td> </tr>
+    <tr> <td>5/5/2023 </td> <td>TBD </td>       <td>Molecular Design and Virtual Screening</td> </tr>
   </tbody>
 </table>  
   
