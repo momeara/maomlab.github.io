@@ -33,7 +33,7 @@ MMM is a research-oriented interest group at the University of Michigan for stru
   </tbody>
 </table>  
   
-  <h3>Note:</h3> <h3 style="color: #FFFF00;">Out meeting for 2/3 has been postponed till 2/10 to accomodate the PhD student recruitment on the 3rd.</h3>  
+  <h3>Note:</h3> <h3 style="background-color: #FFFF00;">Out meeting for 2/3 has been postponed till 2/10 to accomodate the PhD student recruitment on the 3rd.</h3>  
     
   
   
