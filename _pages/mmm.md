@@ -26,12 +26,16 @@ MMM is a research-oriented interest group at the University of Michigan for stru
   </thead>
   <tbody>
     <tr> <td>1/6/2023&nbsp;&nbsp;</td> <td>6215 THSL&nbsp;&nbsp;</td> <td>CASP15 Recap</td> </tr>
-    <tr> <td>2/3/2023&nbsp;&nbsp;</td> <td>6000 THSL&nbsp;&nbsp;</td> <td>Physics Simulations &lt;=&gt; Molecular Modeling</td> </tr>
+    <tr> <td><bf>2/10/2023</bf>&nbsp;&nbsp;</td> <td>6000 THSL&nbsp;&nbsp;</td> <td>Physics Simulations &lt;=&gt; Molecular Modeling</td> </tr>
     <tr> <td>3/3/2023&nbsp;&nbsp;</td> <td>6000 THSL&nbsp;&nbsp;</td> <td>Machine Learning &lt;=&gt; Molecular Modeling</td> </tr>
     <tr> <td>4/7/2023&nbsp;&nbsp;</td> <td>6000 THSL&nbsp;&nbsp;</td> <td>Experimental Data &lt;=&gt; Molecular Modeling</td> </tr>
     <tr> <td>5/5/2023&nbsp;&nbsp;</td> <td>TBD&nbsp;&nbsp;</td>       <td>Molecular Design and Virtual Screening</td> </tr>
   </tbody>
 </table>  
+  
+  <h3>Note:</h3> <h3 style="color: #FFFF00;">Out meeting for 2/3 has been postponed till 2/10 to accomodate the PhD student recruitment on the 3rd.</h3>  
+    
+  
   
 Meetings will be in the [Taubman Health Sciences Library](https://www.lib.umich.edu/locations-and-hours/taubman-health-sciences-library/) 1135 Catherine St Ann Arbor, MI 48109, and accessible via [Zoom](https://umich.zoom.us/j/98700994004)
   
