@@ -29,7 +29,7 @@ MMM is a research-oriented interest group at the University of Michigan for stru
     <tr> <td>2/10/2023&nbsp;&nbsp;</td> <td>6000 THSL&nbsp;&nbsp;</td> <td>Physics Simulations &lt;=&gt; Molecular Modeling</td> </tr>
     <tr> <td>3/10/2023&nbsp;&nbsp;</td> <td>6000 THSL&nbsp;&nbsp;</td> <td>Machine Learning &lt;=&gt; Molecular Modeling</td> </tr>
     <tr> <td>4/7/2023&nbsp;&nbsp;</td> <td>6000 THSL&nbsp;&nbsp;</td> <td>Experimental Data &lt;=&gt; Molecular Modeling</td> </tr>
-    <tr> <td>5/5/2023&nbsp;&nbsp;</td> <td>TBD&nbsp;&nbsp;</td>       <td>Molecular Design and Virtual Screening</td> </tr>
+    <tr> <td>5/5/2023&nbsp;&nbsp;</td> <td>6000 THSL&nbsp;&nbsp;</td>  <td>Molecular Design and Virtual Screening</td> </tr>
   </tbody>
 </table>    
   
